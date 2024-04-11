@@ -29,3 +29,15 @@ h
 8src/StartegyDesignPattern/withStartegyPattern/Start.java,6\0\60491d85e8fd52cdc117e814d4424607ee84ae95
 m
 =src/StartegyDesignPattern/withStartegyPattern/GoodsDrive.java,d\c\dc79422400f2177187a0678f513c6607bd7605a1
+j
+:src/ObserverDesignPattern/Observable/StocksObservable.java,e\2\e2e20b81d2c81e5a1e13f5e380bf028f24950ca7
+q
+Asrc/ObserverDesignPattern/Observer/NotificationAlertObserver.java,d\7\d7052237cecaeeca9ec79c99ee5f6fb80e2e93ad
+m
+=src/ObserverDesignPattern/Observable/IphoneObervableImpl.java,1\7\17aa211eadd74f70c30ee1cfdaba507afab7c2d9
+T
+$src/ObserverDesignPattern/Store.java,c\b\cbd46115bc5efda82550477e31e9f2bcf2e7f6a7
+n
+>src/ObserverDesignPattern/Observer/EmailAlertObserverImpl.java,9\f\9f7f27c9d3c390fd9e59aab3b3bcac4a7da59e76
+o
+?src/ObserverDesignPattern/Observer/MobileAlertObserverImpl.java,5\c\5ce1fd19e4991e3762bf064521da2e9ad1b5531c
